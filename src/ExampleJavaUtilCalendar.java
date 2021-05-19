@@ -2,7 +2,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
-public class ExampleCalendar {
+public class ExampleJavaUtilCalendar {
 
     public static void main (String [] args) {
 
